@@ -1,4 +1,4 @@
-# 3C---Coding-ChiX-Consortium
+# 3C - Coding-ChiX-Consortium
 3C - Coding ChiX Consortium tutorials 
 
 This is a work in progress!  Do not follow these instructions yet!!!
