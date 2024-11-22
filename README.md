@@ -11,7 +11,7 @@ This is a work in progress!  Do not follow these instructions yet!!!
 
 Videos playlist: https://www.youtube.com/playlist?list=PLHppbKMGGt8TQyxaIa0DEmdzGEUtisgXQ
 
-1. Video 1
+1. [python: set up your virtual environment](https://youtu.be/bGWVAu6y7Wg)
 > Set up your virtual environment
 
 

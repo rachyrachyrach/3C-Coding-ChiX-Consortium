@@ -1,0 +1,9 @@
+{
+    "type": "matching_certificate",
+    "version": "1.0",
+    "molly_birth_certificate": "abcd",
+    "tom_birth_certificate": "ef12",
+    "molly_input_transaction": "3456",
+    "tom_input_transaction": "789a",
+    "home_to_molly": "need?"
+}
